@@ -1,0 +1,12 @@
+
+
+.backdrop
+{
+	position:fixed;
+	
+	width: 100%;
+	height: 100%;
+	background-color:#E9967A;
+	z-index: 100; 
+	opacity: .8;
+}
